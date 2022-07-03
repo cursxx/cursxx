@@ -19,15 +19,15 @@
 
 ### :man_technologist: About me
 
-I am a DevOps-engineer(junior) from Novosibirsk.
+I am a DevOps engineer(junior) from Novosibirsk.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a DevOps engineer, write scripts to automate processes and create project deployment templates
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I learn bash & linux deeper and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 🌱 I’m currently learning k8s <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
 
 ---
 
@@ -48,19 +48,3 @@ I am a DevOps-engineer(junior) from Novosibirsk.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cursxx&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cursxx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**cursxx/cursxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
